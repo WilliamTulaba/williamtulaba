@@ -1,16 +1,13 @@
-## Hi there 👋
+# William Tulaba
 
-<!--
-**WilliamTulaba/williamtulaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+William Tulaba is a technology and information security professional with experience across enterprise security engineering, infrastructure protection, and technical leadership.
 
-Here are some ideas to get you started:
+This GitHub profile serves as a neutral professional reference and may include example materials, documentation, or public resources related to technology and security topics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Verified Profiles
+
+- Official website: https://williamtulaba.com  
+- Secondary site: https://williamtulaba.org  
+- Google-hosted reference page: https://sites.google.com/view/william-tulaba  
+- Medium profile: https://medium.com/@williamtulaba  
+- LinkedIn: https://www.linkedin.com/in/williamtulaba/
